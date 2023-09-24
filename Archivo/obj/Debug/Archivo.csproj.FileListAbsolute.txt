@@ -1,0 +1,7 @@
+C:\Users\ayala\source\repos\Archivo\Archivo\bin\Debug\Archivo.exe.config
+C:\Users\ayala\source\repos\Archivo\Archivo\bin\Debug\Archivo.exe
+C:\Users\ayala\source\repos\Archivo\Archivo\bin\Debug\Archivo.pdb
+C:\Users\ayala\source\repos\Archivo\Archivo\obj\Debug\Archivo.csproj.AssemblyReference.cache
+C:\Users\ayala\source\repos\Archivo\Archivo\obj\Debug\Archivo.csproj.CoreCompileInputs.cache
+C:\Users\ayala\source\repos\Archivo\Archivo\obj\Debug\Archivo.exe
+C:\Users\ayala\source\repos\Archivo\Archivo\obj\Debug\Archivo.pdb
